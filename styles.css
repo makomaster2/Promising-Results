@@ -1,6 +1,7 @@
 body {
 	background-color: black;
 	color: white;
+    font-family: monospace;
 }
 
 table,
@@ -8,7 +9,7 @@ th,
 td {
 	border: 4px solid;
 	border-collapse: collapse;
-	font-size: 26pt;
+	font-size: 22pt;
 	padding: 10px;
 	text-align: center;
 }
